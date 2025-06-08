@@ -60,3 +60,7 @@ For any inquiries, please contact us at [your-email@example.com](mailto:your-ema
 ---
 
 Made with ❤️ by [Your Name/Organization]
+=======
+# Sun-Dental-Appointment-
+Sun Dental Clinic - Modern Dental Care Platform  A responsive, patient-focused website for Sun Dental Clinic, designed to provide exceptional online presence and seamless patient experience.
+>>>>>>> 30fc7a511a41c596a57c06cd3c70447f88378013
