@@ -55,11 +55,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-For any inquiries, please contact us at [your-email@example.com](mailto:your-email@example.com)
+For any inquiries, please contact us at mrnh9199@gmail.com
 
 ---
 
-Made with ❤️ by [Your Name/Organization]
+Made with ❤️ by NH RICH
 =======
 # Sun-Dental-Appointment-
 Sun Dental Clinic - Modern Dental Care Platform  A responsive, patient-focused website for Sun Dental Clinic, designed to provide exceptional online presence and seamless patient experience.
